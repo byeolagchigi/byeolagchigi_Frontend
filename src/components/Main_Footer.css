@@ -1,0 +1,25 @@
+.footer-box {
+    position: absolute;
+    width: 360px;
+    height: 68px;
+    left: 0px;
+    top: 577px;
+    display: flex;
+
+    background: #FFFFFF;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.5);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+
+.icon-box {
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    left: 45px;
+    top: 17px;
+    width: 263px;
+    height: 30px;
+    
+}

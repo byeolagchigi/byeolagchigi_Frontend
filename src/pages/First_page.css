@@ -1,0 +1,15 @@
+.text {
+    position: absolute;
+    top: 40%;
+    margin-left: 30px;;
+}
+
+.first-text {
+    font-size: 1.3rem;
+}
+
+.second-text {
+    position: absolute;
+    color: gray;
+    top: 15px;
+}

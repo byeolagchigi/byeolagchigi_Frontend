@@ -1,0 +1,36 @@
+
+.mypage-text {
+    position: absolute;
+    left: 30px;
+}
+
+.hello-text {
+    position: absolute;
+    left: 30px;
+    top: 100px;
+}
+
+
+.witch-text {
+    position: absolute;
+    left: 30px;
+    top: 185px;
+}
+
+.rename-text {
+    position: absolute;
+    left: 30px;
+    top: 195px;
+}
+
+.logout-text {
+    position: absolute;
+    left: 30px;
+    top: 255px;
+}
+
+.delete-text {
+    position: absolute;
+    left: 30px;
+    top: 280px;
+}
